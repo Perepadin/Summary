@@ -1,6 +1,7 @@
 #  План автоматизации формы записи на курс или консультацию по курсу
 
-![Форма](https://drive.google.com/file/d/1VJlWjxx6BXv6SAZBaQpzPjQTotwsMEG6/view?usp=sharing)
+<img alt="Форма" src="https://drive.google.com/file/d/1VJlWjxx6BXv6SAZBaQpzPjQTotwsMEG6/view?usp=sharing"/>
+
 
 
 **Варианты путей перехода на форму:**
