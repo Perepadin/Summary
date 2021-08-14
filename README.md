@@ -1,8 +1,5 @@
 #  План автоматизации формы записи на курс или консультацию по курсу
 
-![Form](https://github.com/netology-code/aqa-homeworks/blob/master/summary/pictures/form.jpg)
-
-
 
 **Варианты путей перехода на форму:**
 
