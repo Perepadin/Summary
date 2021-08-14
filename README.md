@@ -1,6 +1,6 @@
 #  План автоматизации формы записи на курс или консультацию по курсу
 
-<img alt="Форма" src="https://drive.google.com/file/d/1VJlWjxx6BXv6SAZBaQpzPjQTotwsMEG6/view?usp=sharing"/>
+![Form](https://github.com/netology-code/aqa-homeworks/blob/master/summary/pictures/form.jpg)
 
 
 
